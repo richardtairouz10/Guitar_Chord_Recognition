@@ -1,0 +1,17 @@
+{
+    "model": "CalibratedClassifierCV",
+    "training_recordings": 624,
+    "testing_recordings": 156,
+    "feature_count": 101,
+    "class_count": 25,
+    "correct_predictions": 150,
+    "incorrect_predictions": 6,
+    "accuracy": 0.9615384615384616,
+    "balanced_accuracy": 0.962857142857143,
+    "macro_precision": 0.9676190476190476,
+    "macro_recall": 0.962857142857143,
+    "macro_f1": 0.9626027306027305,
+    "weighted_f1": 0.9616906597675828,
+    "training_time_seconds": 1.680390959023498,
+    "prediction_time_seconds": 0.011142208997625858
+}

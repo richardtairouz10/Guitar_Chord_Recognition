@@ -1,0 +1,2 @@
+Model,Training Recordings,Testing Recordings,Feature Count,Class Count,Accuracy,Balanced Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted F1,Correct Predictions,Incorrect Predictions,Training Time Seconds,Prediction Time Seconds
+CalibratedClassifierCV,624,156,101,25,0.9615384615384616,0.962857142857143,0.9676190476190476,0.962857142857143,0.9626027306027305,0.9616906597675828,150,6,1.680390959023498,0.011142208997625858

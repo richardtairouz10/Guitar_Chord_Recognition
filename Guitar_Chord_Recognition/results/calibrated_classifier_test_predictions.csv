@@ -1,0 +1,157 @@
+file_name,file_path,actual_encoded,predicted_encoded,actual_label,predicted_label,correct
+D#_acoustic_guitar_fender_fa_series_18.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D#/D#_acoustic_guitar_fender_fa_series_18.wav,11,1,D#,A#,False
+D_acoustic_guitar_fender_fa_series_test_3.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/D/D_acoustic_guitar_fender_fa_series_test_3.wav,10,10,D,D,True
+C#_acoustic_guitar_fender_fa_series_10.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C#/C#_acoustic_guitar_fender_fa_series_10.wav,7,7,C#,C#,True
+Hm_acoustic_guitar_fender_fa_series_14.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Bm/Hm_acoustic_guitar_fender_fa_series_14.wav,5,5,Bm,Bm,True
+C#m_acoustic_guitar_fender_fa_series_10.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C#m/C#m_acoustic_guitar_fender_fa_series_10.wav,8,8,C#m,C#m,True
+Em_acoustic_guitar_fender_fa_series_13.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Em/Em_acoustic_guitar_fender_fa_series_13.wav,15,15,Em,Em,True
+G_acoustic_guitar_fender_ fa_series_10.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G/G_acoustic_guitar_fender_ fa_series_10.wav,20,20,G,G,True
+G_acoustic_guitar_fender_ fa_series_8.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G/G_acoustic_guitar_fender_ fa_series_8.wav,20,20,G,G,True
+D#_acoustic_guitar_fender_fa_series_11.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D#/D#_acoustic_guitar_fender_fa_series_11.wav,11,11,D#,D#,True
+AM_acoustic_guitar_garage_band_2.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Am/AM_acoustic_guitar_garage_band_2.wav,3,3,Am,Am,True
+Em_acoustic_guitar_fender_fa_series_test_3.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/Em/Em_acoustic_guitar_fender_fa_series_test_3.wav,15,15,Em,Em,True
+Cm_acoustic_guitar_fender_fa_series_5.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Cm/Cm_acoustic_guitar_fender_fa_series_5.wav,9,9,Cm,Cm,True
+Hm_acoustic_guitar_fender_fa_series_4.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Bm/Hm_acoustic_guitar_fender_fa_series_4.wav,5,5,Bm,Bm,True
+B_acoustic_guitar_fender_fa_series_14.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/B/B_acoustic_guitar_fender_fa_series_14.wav,4,4,B,B,True
+D_acoustic_guitar_fender_fa_series_test_6.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/D/D_acoustic_guitar_fender_fa_series_test_6.wav,10,13,D,Dm,False
+G#m_acoustic_guitar_fender_fa_series_test_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/G#m/G#m_acoustic_guitar_fender_fa_series_test_1.wav,22,22,G#m,G#m,True
+G#_acoustic_guitar_fender_fa_series_15.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G#/G#_acoustic_guitar_fender_fa_series_15.wav,21,21,G#,G#,True
+C_acoustic_guitar_fender_fa_series_25.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C/C_acoustic_guitar_fender_fa_series_25.wav,6,6,C,C,True
+A_acoustic_guitar_fender_fa_series_3.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A/A_acoustic_guitar_fender_fa_series_3.wav,0,0,A,A,True
+Hm_acoustic_guitar_fender_fa_series_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Bm/Hm_acoustic_guitar_fender_fa_series_1.wav,5,5,Bm,Bm,True
+D_acoustic_guitar_fender_fa_series_test_5.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/D/D_acoustic_guitar_fender_fa_series_test_5.wav,10,13,D,Dm,False
+G#m_acoustic_guitar_fender_fa_series_23.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G#m/G#m_acoustic_guitar_fender_fa_series_23.wav,22,22,G#m,G#m,True
+G#m_acoustic_guitar_fender_fa_series_11.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G#m/G#m_acoustic_guitar_fender_fa_series_11.wav,22,22,G#m,G#m,True
+Am_acoustic_guitar_fender_fa_series_10.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Am/Am_acoustic_guitar_fender_fa_series_10.wav,3,3,Am,Am,True
+Am_acoustic_guitar_fender_fa_series_20.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Am/Am_acoustic_guitar_fender_fa_series_20.wav,3,3,Am,Am,True
+AM_classic_clean_garage_band_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Am/AM_classic_clean_garage_band_1.wav,3,3,Am,Am,True
+F_acoustic_guitar_fender_ fa_series_2.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F/F_acoustic_guitar_fender_ fa_series_2.wav,16,16,F,F,True
+G#m_acoustic_guitar_fender_fa_series_19.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G#m/G#m_acoustic_guitar_fender_fa_series_19.wav,22,22,G#m,G#m,True
+Am_acoustic_guitar_fender_fa_series_4.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Am/Am_acoustic_guitar_fender_fa_series_4.wav,3,3,Am,Am,True
+C_acoustic_guitar_fender_fa_series_test_2.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/C/C_acoustic_guitar_fender_fa_series_test_2.wav,6,6,C,C,True
+D_acoustic_guitar_fender_f a_series_22.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D/D_acoustic_guitar_fender_f a_series_22.wav,10,10,D,D,True
+Fm_acoustic_guitar_fender_fa_series_8.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Fm/Fm_acoustic_guitar_fender_fa_series_8.wav,19,19,Fm,Fm,True
+C#m_acoustic_guitar_fender_fa_series_25.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C#m/C#m_acoustic_guitar_fender_fa_series_25.wav,8,8,C#m,C#m,True
+D#_acoustic_guitar_fender_fa_series_10.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D#/D#_acoustic_guitar_fender_fa_series_10.wav,11,11,D#,D#,True
+A#_acoustic_guitar_fender_fa_series_14.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A#/A#_acoustic_guitar_fender_fa_series_14.wav,1,1,A#,A#,True
+Dm_acoustic_guitar_fender_fa_series_20.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Dm/Dm_acoustic_guitar_fender_fa_series_20.wav,13,13,Dm,Dm,True
+A_acoustic_guitar_fender_fa_series_14.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A/A_acoustic_guitar_fender_fa_series_14.wav,0,0,A,A,True
+Cm_acoustic_guitar_fende r_fa_series_test_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/Cm/Cm_acoustic_guitar_fende r_fa_series_test_1.wav,9,9,Cm,Cm,True
+C#_acoustic_guitar_fender_fa_series_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C#/C#_acoustic_guitar_fender_fa_series_1.wav,7,7,C#,C#,True
+G#_acoustic_guitar_fender_f a_series_6.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G#/G#_acoustic_guitar_fender_f a_series_6.wav,21,21,G#,G#,True
+C#_acoustic_guitar_fender_fa_series_2.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C#/C#_acoustic_guitar_fender_fa_series_2.wav,7,7,C#,C#,True
+F_acoustic_guitar_fender_ fa_series_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F/F_acoustic_guitar_fender_ fa_series_1.wav,16,16,F,F,True
+D_acoustic_guitar_fender_f a_series_11.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D/D_acoustic_guitar_fender_f a_series_11.wav,10,10,D,D,True
+Fm_acoustic_guitar_fender_fa_series_test_6.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/Fm/Fm_acoustic_guitar_fender_fa_series_test_6.wav,19,19,Fm,Fm,True
+F#m_acoustic_guitar_fender_fa_series_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F#m/F#m_acoustic_guitar_fender_fa_series_1.wav,18,18,F#m,F#m,True
+Gm_acoustic_guitar_fender_fa_series_22.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Gm/Gm_acoustic_guitar_fender_fa_series_22.wav,23,23,Gm,Gm,True
+Em_acoustic_guitar_fender_fa_series_test_5.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/Em/Em_acoustic_guitar_fender_fa_series_test_5.wav,15,15,Em,Em,True
+Fm_acoustic_guitar_fender_fa_series_10.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Fm/Fm_acoustic_guitar_fender_fa_series_10.wav,19,19,Fm,Fm,True
+Cm_acoustic_guitar_fender_fa_series_19.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Cm/Cm_acoustic_guitar_fender_fa_series_19.wav,9,9,Cm,Cm,True
+E_acoustic_guitar_fender_fa_series_4.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/E/E_acoustic_guitar_fender_fa_series_4.wav,14,14,E,E,True
+D#_acoustic_guitar_fender_fa_series_test_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/D#/D#_acoustic_guitar_fender_fa_series_test_1.wav,11,11,D#,D#,True
+E_acoustic_guitar_fender_fa_series_8.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/E/E_acoustic_guitar_fender_fa_series_8.wav,14,14,E,E,True
+C#_acoustic_guitar_fender_fa_series_test_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/C#/C#_acoustic_guitar_fender_fa_series_test_1.wav,7,7,C#,C#,True
+F_acoustic_guitar_fender_ fa_series_11.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F/F_acoustic_guitar_fender_ fa_series_11.wav,16,16,F,F,True
+F_acoustic_guitar_fender_ fa_series_22.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F/F_acoustic_guitar_fender_ fa_series_22.wav,16,16,F,F,True
+F_acoustic_guitar_fender_ fa_series_test_4.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/F/F_acoustic_guitar_fender_ fa_series_test_4.wav,16,16,F,F,True
+Em_acoustic_guitar_fender_fa_series_test_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/Em/Em_acoustic_guitar_fender_fa_series_test_1.wav,15,15,Em,Em,True
+stadium-noise-40-sec.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Noise/stadium-noise-40-sec.wav,24,24,Noise,Noise,True
+D#m_acoustic_guitar_fender_fa_series_8.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D#m/D#m_acoustic_guitar_fender_fa_series_8.wav,12,12,D#m,D#m,True
+A_acoustic_guitar_fender_fa_series_19.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A/A_acoustic_guitar_fender_fa_series_19.wav,0,0,A,A,True
+A_acoustic_guitar_fender_fa_series_4.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A/A_acoustic_guitar_fender_fa_series_4.wav,0,0,A,A,True
+Am_acoustic_guitar_fender_fa_series_2.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Am/Am_acoustic_guitar_fender_fa_series_2.wav,3,3,Am,Am,True
+D#_acoustic_guitar_fender_fa_series_13.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D#/D#_acoustic_guitar_fender_fa_series_13.wav,11,11,D#,D#,True
+Cm_acoustic_guitar_fender_fa_series_18.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Cm/Cm_acoustic_guitar_fender_fa_series_18.wav,9,9,Cm,Cm,True
+E_acoustic_guitar_fender_fa_series_23.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/E/E_acoustic_guitar_fender_fa_series_23.wav,14,14,E,E,True
+G#m_acoustic_guitar_fender_fa_series_5.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G#m/G#m_acoustic_guitar_fender_fa_series_5.wav,22,22,G#m,G#m,True
+G_acoustic_guitar_fender_ fa_series_21.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G/G_acoustic_guitar_fender_ fa_series_21.wav,20,20,G,G,True
+C#m_acoustic_guitar_fender_fa_series_13.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C#m/C#m_acoustic_guitar_fender_fa_series_13.wav,8,8,C#m,C#m,True
+E_classic_clean_garage_band_3.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/E/E_classic_clean_garage_band_3.wav,14,14,E,E,True
+Gm_acoustic_guitar_fender_fa_series_4.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Gm/Gm_acoustic_guitar_fender_fa_series_4.wav,23,23,Gm,Gm,True
+F#m_acoustic_guitar_fender_fa_series_22.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F#m/F#m_acoustic_guitar_fender_fa_series_22.wav,18,18,F#m,F#m,True
+G#m_acoustic_guitar_fender_fa_series_test_4.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/G#m/G#m_acoustic_guitar_fender_fa_series_test_4.wav,22,22,G#m,G#m,True
+B_acoustic_guitar_fender_fa_series_test_6.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/B/B_acoustic_guitar_fender_fa_series_test_6.wav,4,4,B,B,True
+C_acoustic_guitar_fender_fa_series_9.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C/C_acoustic_guitar_fender_fa_series_9.wav,6,6,C,C,True
+Fm_acoustic_guitar_fender_fa_series_7.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Fm/Fm_acoustic_guitar_fender_fa_series_7.wav,19,19,Fm,Fm,True
+G_acoustic_guitar_fender_ fa_series_4.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G/G_acoustic_guitar_fender_ fa_series_4.wav,20,20,G,G,True
+F#_acoustic_guitar_fender_f a_series_21.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F#/F#_acoustic_guitar_fender_f a_series_21.wav,17,7,F#,C#,False
+Fm_acoustic_guitar_fender_fa_series_test_5.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/Fm/Fm_acoustic_guitar_fender_fa_series_test_5.wav,19,19,Fm,Fm,True
+G#_acoustic_guitar_fender_f a_series_5.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G#/G#_acoustic_guitar_fender_f a_series_5.wav,21,21,G#,G#,True
+B_acoustic_guitar_fender_fa_series_22.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/B/B_acoustic_guitar_fender_fa_series_22.wav,4,4,B,B,True
+Bm_acoustic_guitar_fender_fa_series_3.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/Bm/Bm_acoustic_guitar_fender_fa_series_3.wav,5,5,Bm,Bm,True
+Dm_acoustic_guitar_fender_fa_series_7.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Dm/Dm_acoustic_guitar_fender_fa_series_7.wav,13,13,Dm,Dm,True
+E_acoustic_guitar_fender_fa_series_7.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/E/E_acoustic_guitar_fender_fa_series_7.wav,14,14,E,E,True
+D_acoustic_guitar_fender_f a_series_25.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D/D_acoustic_guitar_fender_f a_series_25.wav,10,10,D,D,True
+C_acoustic_guitar_fender_fa_series_21.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C/C_acoustic_guitar_fender_fa_series_21.wav,6,6,C,C,True
+G_acoustic_guitar_fender_ fa_series_6.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G/G_acoustic_guitar_fender_ fa_series_6.wav,20,20,G,G,True
+B_acoustic_guitar_fender_fa_series_15.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/B/B_acoustic_guitar_fender_fa_series_15.wav,4,4,B,B,True
+F#m_acoustic_guitar_fender_fa_series_15.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F#m/F#m_acoustic_guitar_fender_fa_series_15.wav,18,18,F#m,F#m,True
+A#m_acoustic_guitar_fender_fa_series_test_9.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A#m/A#m_acoustic_guitar_fender_fa_series_test_9.wav,2,2,A#m,A#m,True
+G#_acoustic_guitar_fender_f a_series_8.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G#/G#_acoustic_guitar_fender_f a_series_8.wav,21,21,G#,G#,True
+G_acoustic_guitar_fender_ fa_series_11.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G/G_acoustic_guitar_fender_ fa_series_11.wav,20,20,G,G,True
+A_acoustic_guitar_fender_fa_series_23.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A/A_acoustic_guitar_fender_fa_series_23.wav,0,0,A,A,True
+A#m_acoustic_guitar_fender_fa_series_test_2.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A#m/A#m_acoustic_guitar_fender_fa_series_test_2.wav,2,2,A#m,A#m,True
+Fm_acoustic_guitar_fender_fa_series_20.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Fm/Fm_acoustic_guitar_fender_fa_series_20.wav,19,19,Fm,Fm,True
+F#m_acoustic_guitar_fender_fa_series_3.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F#m/F#m_acoustic_guitar_fender_fa_series_3.wav,18,18,F#m,F#m,True
+Gm_acoustic_guitar_fender_fa_series_3.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Gm/Gm_acoustic_guitar_fender_fa_series_3.wav,23,23,Gm,Gm,True
+Dm_acoustic_guitar_fender_fa_series_6.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Dm/Dm_acoustic_guitar_fender_fa_series_6.wav,13,13,Dm,Dm,True
+C_acoustic_guitar_fender_fa_series_8.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C/C_acoustic_guitar_fender_fa_series_8.wav,6,6,C,C,True
+C_acoustic_guitar_fender_fa_series_test_5.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/C/C_acoustic_guitar_fender_fa_series_test_5.wav,6,6,C,C,True
+Hm_acoustic_guitar_fender_fa_series_21.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Bm/Hm_acoustic_guitar_fender_fa_series_21.wav,5,5,Bm,Bm,True
+A_acoustic_guitar_fender_fa_series_9.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A/A_acoustic_guitar_fender_fa_series_9.wav,0,0,A,A,True
+E_classic_clean_garage_band_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/E/E_classic_clean_garage_band_1.wav,14,14,E,E,True
+C_acoustic_guitar_fender_fa_series_test_6.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/C/C_acoustic_guitar_fender_fa_series_test_6.wav,6,6,C,C,True
+Cm_acoustic_guitar_fender_fa_series_20.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Cm/Cm_acoustic_guitar_fender_fa_series_20.wav,9,9,Cm,Cm,True
+F#m_acoustic_guitar_fender_fa_series_24.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F#m/F#m_acoustic_guitar_fender_fa_series_24.wav,18,18,F#m,F#m,True
+AM_acoustic_guitar_garage_band_3.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Am/AM_acoustic_guitar_garage_band_3.wav,3,3,Am,Am,True
+B_acoustic_guitar_fender_fa_series_3.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/B/B_acoustic_guitar_fender_fa_series_3.wav,4,4,B,B,True
+Fm_acoustic_guitar_fender_fa_series_test_2.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/Fm/Fm_acoustic_guitar_fender_fa_series_test_2.wav,19,19,Fm,Fm,True
+Gm_acoustic_guitar_fender_fa_series_13.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Gm/Gm_acoustic_guitar_fender_fa_series_13.wav,23,23,Gm,Gm,True
+Em_acoustic_guitar_fender_fa_series_14.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Em/Em_acoustic_guitar_fender_fa_series_14.wav,15,15,Em,Em,True
+Em_acoustic_guitar_fender_fa_series_20.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Em/Em_acoustic_guitar_fender_fa_series_20.wav,15,15,Em,Em,True
+F#m_acoustic_guitar_fender_fa_series_18.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F#m/F#m_acoustic_guitar_fender_fa_series_18.wav,18,18,F#m,F#m,True
+A#m_acoustic_guitar_fender_fa_series_test_22.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A#m/A#m_acoustic_guitar_fender_fa_series_test_22.wav,2,2,A#m,A#m,True
+E_acoustic_guitar_fender_fa_series_18.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/E/E_acoustic_guitar_fender_fa_series_18.wav,14,14,E,E,True
+Hm_acoustic_guitar_fender_fa_series_19.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Bm/Hm_acoustic_guitar_fender_fa_series_19.wav,5,5,Bm,Bm,True
+F#_acoustic_guitar_fender_f a_series_11.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F#/F#_acoustic_guitar_fender_f a_series_11.wav,17,17,F#,F#,True
+E_acoustic_guitar_fender_fa_series_6.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/E/E_acoustic_guitar_fender_fa_series_6.wav,14,14,E,E,True
+E_acoustic_guitar_fender_fa_series_16.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/E/E_acoustic_guitar_fender_fa_series_16.wav,14,14,E,E,True
+D#m_acoustic_guitar_fender_fa_series_23.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D#m/D#m_acoustic_guitar_fender_fa_series_23.wav,12,12,D#m,D#m,True
+E_acoustic_guitar_fender_fa_series_test_5.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/E/E_acoustic_guitar_fender_fa_series_test_5.wav,14,14,E,E,True
+Dm_acoustic_guitar_fender_fa_series_19.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Dm/Dm_acoustic_guitar_fender_fa_series_19.wav,13,13,Dm,Dm,True
+G#_acoustic_guitar_fender_fa_series_test_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/G#/G#_acoustic_guitar_fender_fa_series_test_1.wav,21,21,G#,G#,True
+F#_acoustic_guitar_fender_f a_series_6.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F#/F#_acoustic_guitar_fender_f a_series_6.wav,17,17,F#,F#,True
+D_acoustic_guitar_fender_f a_series_16.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D/D_acoustic_guitar_fender_f a_series_16.wav,10,10,D,D,True
+C#_acoustic_guitar_fender_fa_series_3.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C#/C#_acoustic_guitar_fender_fa_series_3.wav,7,7,C#,C#,True
+F#_acoustic_guitar_fender_f a_series_19.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F#/F#_acoustic_guitar_fender_f a_series_19.wav,17,17,F#,F#,True
+A#_acoustic_guitar_fender_fa_series_10.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A#/A#_acoustic_guitar_fender_fa_series_10.wav,1,1,A#,A#,True
+A#_acoustic_guitar_fender_fa_series_test_3.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/A#/A#_acoustic_guitar_fender_fa_series_test_3.wav,1,1,A#,A#,True
+F#_acoustic_guitar_fender_fa_series_test_3.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/F#/F#_acoustic_guitar_fender_fa_series_test_3.wav,17,17,F#,F#,True
+D#m_acoustic_guitar_fender_fa_series_9.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D#m/D#m_acoustic_guitar_fender_fa_series_9.wav,12,12,D#m,D#m,True
+A#m_acoustic_guitar_fender_fa_series_test_17.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A#m/A#m_acoustic_guitar_fender_fa_series_test_17.wav,2,2,A#m,A#m,True
+Dm_acoustic_guitar_fender_fa_series_25.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Dm/Dm_acoustic_guitar_fender_fa_series_25.wav,13,13,Dm,Dm,True
+G#_acoustic_guitar_fender_fa_series_16.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/G#/G#_acoustic_guitar_fender_fa_series_16.wav,21,21,G#,G#,True
+A#m_acoustic_guitar_fender_fa_series_test_15.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A#m/A#m_acoustic_guitar_fender_fa_series_test_15.wav,2,2,A#m,A#m,True
+A#_acoustic_guitar_fender_fa_series_7.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A#/A#_acoustic_guitar_fender_fa_series_7.wav,1,1,A#,A#,True
+B_acoustic_guitar_fender_fa_series_8.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/B/B_acoustic_guitar_fender_fa_series_8.wav,4,4,B,B,True
+Gm_acoustic_guitar_fender_fa_series_23.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Gm/Gm_acoustic_guitar_fender_fa_series_23.wav,23,23,Gm,Gm,True
+Am_acoustic_guitar_fender_fa_series_15.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Am/Am_acoustic_guitar_fender_fa_series_15.wav,3,3,Am,Am,True
+F_acoustic_guitar_fender_ fa_series_4.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F/F_acoustic_guitar_fender_ fa_series_4.wav,16,16,F,F,True
+C#m_acoustic_guitar_fende r_fa_series_test_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Test/C#m/C#m_acoustic_guitar_fende r_fa_series_test_1.wav,8,8,C#m,C#m,True
+Gm_acoustic_guitar_fender_fa_series_19.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Gm/Gm_acoustic_guitar_fender_fa_series_19.wav,23,23,Gm,Gm,True
+Dm_acoustic_guitar_fender_fa_series_12.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Dm/Dm_acoustic_guitar_fender_fa_series_12.wav,13,13,Dm,Dm,True
+AM_acoustic_guitar_garage_band_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Am/AM_acoustic_guitar_garage_band_1.wav,3,3,Am,Am,True
+F#_acoustic_guitar_fender_f a_series_3.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/F#/F#_acoustic_guitar_fender_f a_series_3.wav,17,17,F#,F#,True
+D#m_acoustic_guitar_fender_fa_series_4.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D#m/D#m_acoustic_guitar_fender_fa_series_4.wav,12,12,D#m,D#m,True
+A#_acoustic_guitar_fender_fa_series_17.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A#/A#_acoustic_guitar_fender_fa_series_17.wav,1,1,A#,A#,True
+D#m_acoustic_guitar_fender_fa_series_7.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D#m/D#m_acoustic_guitar_fender_fa_series_7.wav,12,7,D#m,C#,False
+D#m_acoustic_guitar_fender_fa_series_6.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D#m/D#m_acoustic_guitar_fender_fa_series_6.wav,12,12,D#m,D#m,True
+Cm_acoustic_guitar_fender_fa_series_14.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/Cm/Cm_acoustic_guitar_fender_fa_series_14.wav,9,9,Cm,Cm,True
+A#_acoustic_guitar_fender_fa_series_1.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A#/A#_acoustic_guitar_fender_fa_series_1.wav,1,1,A#,A#,True
+C#_acoustic_guitar_fender_fa_series_4.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C#/C#_acoustic_guitar_fender_fa_series_4.wav,7,17,C#,F#,False
+C#m_acoustic_guitar_fender_fa_series_19.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C#m/C#m_acoustic_guitar_fender_fa_series_19.wav,8,8,C#m,C#m,True
+C#m_acoustic_guitar_fender_fa_series_21.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C#m/C#m_acoustic_guitar_fender_fa_series_21.wav,8,8,C#m,C#m,True
+D#_acoustic_guitar_fender_fa_series_23.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/D#/D#_acoustic_guitar_fender_fa_series_23.wav,11,11,D#,D#,True
+A#m_acoustic_guitar_fender_fa_series_test_18.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/A#m/A#m_acoustic_guitar_fender_fa_series_test_18.wav,2,2,A#m,A#m,True
+C#_acoustic_guitar_fender_fa_series_13.wav,/Users/richardtairouz/Downloads/Guitar_Chord_Recognition/dataset_download/data/Train/C#/C#_acoustic_guitar_fender_fa_series_13.wav,7,7,C#,C#,True
